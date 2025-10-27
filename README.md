@@ -1,1 +1,1 @@
-- [lab1](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab1)
+### [main branch](https://github.com/FearlessAtom/software-requirements-analysis)
