@@ -1,4 +1,1 @@
-- [lab1](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab1)
-- [lab2](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab2)
-- [lab3](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab3)
-- [lab4](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab4)
+### [main branch](https://github.com/FearlessAtom/software-requirements-analysis)
