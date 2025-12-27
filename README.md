@@ -7,3 +7,4 @@
 - [lab7](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab7)
 - [lab8](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab8)
 - [lab9](https://github.com/FearlessAtom/software-requirements-analysis/tree/lab9)
+- [coursework](https://github.com/FearlessAtom/software-requirements-analysis/tree/coursework)
